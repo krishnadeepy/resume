@@ -1,0 +1,14 @@
+# Degree
+- degree: Master of Sciences
+  uni: Stevens Institute Of Technology
+  year: 2024 &mdash; 2025
+  #summary: If you had any meaningful roles at college, feel free to write about them here
+
+- degree: Bachelor of Technology
+  uni: Keshav Memorial Institute Of Technology
+  year: 2018 &mdash; 2022
+  awards:
+    - award: ML &amp; DL Research Assistant
+    - award: Head of the Techical Club
+    - award: R&D Peer Mentor
+  #summary: You can choose to have either a single or multiple awards
